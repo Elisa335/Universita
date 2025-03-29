@@ -1,0 +1,7 @@
+.* #ignora file nascosti
+~$* #ignora file corrotti/nascosti
+*~ #ignora file di backup
+~\$o*
+~\$*
+~$o*
+~$*
